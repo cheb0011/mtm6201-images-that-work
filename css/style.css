@@ -173,7 +173,7 @@ a {
   );
 }
 
-.hero_image {
+.hero__image {
   position: absolute;
   inset: 0;
   width: 100%;
